@@ -1,4 +1,3 @@
-#install.packages("twitteR")
 library(twitteR)
 library(tidyverse)
 library(ggplot2)
